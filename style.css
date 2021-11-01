@@ -50,7 +50,7 @@ table tr td{
 
 }
 input {
-    background-color: rgb(255, 0, 43);
+    background-color: rgb(0, 255, 106);
     font-size: large;
     border-radius: 50%;
     border: none;
@@ -60,6 +60,7 @@ input {
     text-align: center;
     margin: auto;
 
+    /*the button color eas chenged*/
 
 }
 .resetbutton{
