@@ -14,6 +14,7 @@ table{
 table thead {
     background : rgb(193, 44, 252);
     border: 2px groove black;
+    /*the background color was changed*/
 }
 
 table tr td{
